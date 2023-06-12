@@ -81,7 +81,7 @@ This tutorial / Device Overview is about **Arduino MKR WiFi-1010**. We've discus
 
 🚩  In this video, We will see a DIY project using Arduino MKR WiFi1010 Dev Board, Thermostat Systems. We will see its Design, Block Diagram, Circuit diagram, Source code and Demo.    
  
- <img src="/Images/m2e-ThermoStat-sym.jpg" height="250" >
+ <img src="/Images/m2e-ThermoStat-sym.png" height="250" >
 
  ------------------------------------------------------------------------------------------------------
 
