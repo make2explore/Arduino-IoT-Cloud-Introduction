@@ -48,21 +48,22 @@ This tutorial / Device Overview is about **Arduino MKR WiFi-1010**. We've discus
 
 📕 **YouTube Video Links**  
 
-▶️ [Device Overview] Arduino MKR WiFi-1010 Dev Board   - 🔗 https://youtu.be/
+▶️ [Device Overview] Arduino MKR WiFi-1010 Dev Board   - 🔗 https://youtu.be/khxzE7lxrPA  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 Website - 🔗 https://cloud.arduino.cc/  
-📜 Wiki page - 
-
-📌 ▶️ [DIY Project]  - 🔗 https://youtu.be/  
-📌 ▶️ [Device Overview] - 🔗 https://youtu.be   
+🌐 Arduino Website - 🔗 https://www.arduino.cc/  
+📙 Arduino IoT Cloud 🔗 https://docs.arduino.cc/arduino-cloud/  
+📘 Arduino IoT Cloud 🔗 https://cloud.arduino.cc/  
+📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/  360014869820-Install-the-Arduino-Create-Agent  
+📒 Arduino Create agent installation page 🔗 https://create.arduino.cc/getting-started/plugin/welcome  
 
 🔴 Purchase Links -  
 
-🌐 Product Documentation page - 🔗 https://docs.arduino.cc/hardware/mkr-wifi-1010    
-🛒 MKR WiFi-1010  -  🔗 https://store.arduino.cc/products/arduino-mkr-wifi-1010   
+🌐 Product page - 🔗 https://docs.arduino.cc/hardware/mkr-wifi-1010  
+🛒 Arduino MKR WiFi 1010 💳 - 🔗 https://store.arduino.cc/products/arduino-mkr-wifi-1010  
+🛒 Arduino MKR WiFi 1010  (🇮🇳) - 🔗 https://amzn.to/3JFAhtz  
 
 
 📜 Source Code, Circuit Diagrams and Documentation :  
@@ -87,7 +88,7 @@ This tutorial / Device Overview is about **Arduino MKR WiFi-1010**. We've discus
 
 📕 **YouTube Video Links**  
 
-▶️ [DIY Project]  - 🔗 https://youtu.be/
+▶️ [DIY Project]  - 🔗 https://youtu.be/khxzE7lxrPA  
 
 ------------------------------------------------------------------------------------------  
 
