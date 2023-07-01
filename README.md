@@ -59,14 +59,14 @@ This tutorial / Device Overview is about **Arduino MKR WiFi-1010**. We've discus
 📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/  360014869820-Install-the-Arduino-Create-Agent  
 📒 Arduino Create agent installation page 🔗 https://create.arduino.cc/getting-started/plugin/welcome  
 
-🔴 Purchase Links -  
+🔴 **Purchase Links** -  
 
 🌐 Product page - 🔗 https://docs.arduino.cc/hardware/mkr-wifi-1010  
 🛒 Arduino MKR WiFi 1010 💳 - 🔗 https://store.arduino.cc/products/arduino-mkr-wifi-1010  
 🛒 Arduino MKR WiFi 1010  (🇮🇳) - 🔗 https://amzn.to/3JFAhtz  
 
 
-📜 Source Code, Circuit Diagrams and Documentation :  
+📜 **Source Code, Circuit Diagrams and Documentation** :  
 
 🌐 GitHub Repository - 🔗 https://github.com/make2explore/Arduino-IoT-Cloud-Introduction  
   
